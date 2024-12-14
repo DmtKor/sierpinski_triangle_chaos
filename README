@@ -1,0 +1,3 @@
+Draws Sierpinske triangle using chaotic method. 
+You can change triangle shape by manually changing points in main.cc (attractors).
+Compilation: make all (requires SFML installed).
